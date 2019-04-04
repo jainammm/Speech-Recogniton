@@ -1,0 +1,7 @@
+audio/ 
+.ipynb_checkpoints/
+tensoflow_hmm1/
+.DS_Store
+__pycache__/
+*.tar.gz
+*.pyc
